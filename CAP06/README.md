@@ -56,13 +56,13 @@ Sorts and merges two arrays of five integers each into a third array, which is t
 
 ---
 
-9. **Flight Reservation System** ✈️  
+### 9. **Flight Reservation System** ✈️  
 Simulates a flight reservation system, allowing consultation by flight number, origin, or destination, and making reservations based on seat availability.  
 [View Code](https://github.com/MaxwellMaciel/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/Q09/src/br/edu/principal/Principal.java)
 
 --- 
 
-10. **Multiple Choice Exam Grading System** 📝  
+### 10. **Multiple Choice Exam Grading System** 📝  
 Simulates a multiple-choice exam grading system for ten students, calculates each student's score based on their responses, and shows the approval percentage, with a passing score of 6.  
 [View Code](https://github.com/MaxwellMaciel/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/Q10/src/br/edu/principal/Principal.java)
 
